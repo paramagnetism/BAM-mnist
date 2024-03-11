@@ -1,0 +1,10 @@
+venv/
+data/
+images/
+output/
+.idea/
+__pycache__/
+*.ipynb_checkpoints/
+saved_model/
+bam-4.rar
+*.pyc
